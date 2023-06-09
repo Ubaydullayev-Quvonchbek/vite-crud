@@ -53,7 +53,7 @@ export default function NavbarBasicPreview() {
                                 : "invisible opacity-0"
                                 }`}
                         >
-                            <li role="none" className="flex items-stretch">
+                            <li role="none" className="flex items-stretch justify-center">
                                 <a
                                     role="menuitem"
                                     aria-current="page"
@@ -65,7 +65,7 @@ export default function NavbarBasicPreview() {
                                     <span>Home</span>
                                 </a>
                             </li>
-                            <li role="none" className="flex items-stretch">
+                            <li role="none" className="flex items-stretch justify-center">
                                 <a
                                     role="menuitem"
                                     aria-haspopup="false"
@@ -76,7 +76,7 @@ export default function NavbarBasicPreview() {
                                     <span>Features</span>
                                 </a>
                             </li>
-                            <li role="none" className="flex items-stretch">
+                            <li role="none" className="flex items-stretch justify-center">
                                 <a
                                     role="menuitem"
                                     aria-haspopup="false"
@@ -87,7 +87,7 @@ export default function NavbarBasicPreview() {
                                     <span>Pricing</span>
                                 </a>
                             </li>
-                            <li role="none" className="flex items-stretch">
+                            <li role="none" className="flex items-stretch justify-center">
                                 <a
                                     role="menuitem"
                                     aria-haspopup="false"
